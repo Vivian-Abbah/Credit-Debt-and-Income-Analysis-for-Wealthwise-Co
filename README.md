@@ -1,4 +1,5 @@
 # Credit-Debt-and-Income-Analysis-for-Wealthwise-Co
+This analysis looks into the credit and income profiles of individuals across different age groups, regions, and income brackets to uncover how behaviors differ where risks are concentrated, and what patterns can help businesses and policymakers make informed decisions.
 ## Introduction
 
 In today’s fast-paced economy, the ability to manage credit and debt wisely is more crucial than ever. Behind every financial transaction lies a story of ambition, challenges, and financial discipline. The way individuals handle their income, manage their debt, and maintain their credit scores not only affects their personal financial health but also reflects broader socioeconomic patterns.
