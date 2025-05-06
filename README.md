@@ -10,8 +10,6 @@ This analysis dives into the credit and income profiles of individuals across di
 
 The primary goal of this project is to perform a comprehensive analysis of credit and income profiles using key metrics such as debt-to-income ratio, total debt, credit scores, and monthly debt trends. The objective is to extract meaningful insights from the data and highlight patterns that can inform financial planning, credit risk management, and targeted financial product offerings.
 
-## Story of Data
-
 ### Story of Data
 
 In order to generate accurate and impactful insights, it is essential to understand the origin, structure, and characteristics of the data. The journey of this dataset from its source to its transformation, plays a pivotal role in ensuring the reliability of the analysis. This section sheds light on how the data was obtained, the key variables it contains, and the inherent challenges it presents.
